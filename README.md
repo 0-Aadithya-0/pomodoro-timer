@@ -1,1 +1,3 @@
-A Intractive GUI based pomodoro timer with login features with login detail stored in a  hosted server 
+# **Pomodoro timer**
+
+A Intractive GUI based pomodoro timer with login/signup features which is securely stored in a hosted server
